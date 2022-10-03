@@ -1,2 +1,3 @@
 # generated_worlds
-Small python program to create new terms for world building projects
+
+Python program that generates random terms for world building - making use of terms from politics, philosophy, ecology, computing, psychology and geography.
